@@ -25,5 +25,4 @@ dependencies {
     compile('com.changhong:spi-core:1.0-SNAPSHOT-all')
     compile('com.changhong:spi-boy:1.0-SNAPSHOT')
     compile('com.changhong:spi-girl:1.0-SNAPSHOT')
-//    compile('com.changhong:spi-interface:1.0-SNAPSHOT')
 }
