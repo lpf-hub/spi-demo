@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da9f8c9b-60aa-4a56-9f81-d4a8c91e85ae" name="Default Changelist" comment="" />
+    <list default="true" id="da9f8c9b-60aa-4a56-9f81-d4a8c91e85ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +94,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
   <component name="ProjectId" id="1ilqm8rlxpsC31NstlWtgTkC9W3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -93,13 +112,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1546875" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.side.proportion" value="0.35152635" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -111,6 +131,7 @@
       <recent name="$PROJECT_DIR$/spi-girl/build/libs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/spi-interface/src/main/resources/META-INF" />
       <recent name="$PROJECT_DIR$/spi-interface/src/main/resources" />
@@ -226,12 +247,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602492682296</updated>
-      <workItem from="1602492685295" duration="10845000" />
+      <workItem from="1602492685295" duration="16169000" />
     </task>
+    <task id="LOCAL-00001" summary="添加了打包成jar包时对于包含和不包含第三方依赖jar的设定">
+      <created>1602581338342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602581338342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加.gitignore文件">
+      <created>1602582650174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602582650174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加了打包成jar包时对于包含和不包含第三方依赖jar的设定" />
+    <MESSAGE value="添加.gitignore文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加.gitignore文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2395" y="-52" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602496772795">
@@ -247,27 +324,55 @@
       <screen x="1440" y="-556" width="2560" height="1417" />
     </state>
     <state x="2464" y="-3" width="616" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602553591055" />
-    <state width="2505" height="455" key="GridCell.Tab.0.bottom" timestamp="1602568011385">
+    <state x="2265" y="-320" key="CommitChangelistDialog2" timestamp="1602582650006">
       <screen x="1440" y="-556" width="2560" height="1417" />
     </state>
+    <state x="2265" y="-320" key="CommitChangelistDialog2/0.23.1440.797/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602582650006" />
+    <state x="2265" y="-320" key="CommitChangelistDialog2/0.23.1440.800/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602581338117" />
+    <state x="2144" y="-177" key="DiffContextDialog" timestamp="1602583028990">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state x="2144" y="-177" key="DiffContextDialog/0.23.1440.797/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602583028990" />
+    <state width="2505" height="455" key="GridCell.Tab.0.bottom" timestamp="1602581725963">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.0.bottom/0.23.1440.797/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602576867572" />
+    <state width="2505" height="455" key="GridCell.Tab.0.bottom/0.23.1440.800/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602581725963" />
     <state width="2505" height="455" key="GridCell.Tab.0.bottom/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602568011385" />
-    <state width="2505" height="455" key="GridCell.Tab.0.center" timestamp="1602568011384">
+    <state width="2505" height="455" key="GridCell.Tab.0.center" timestamp="1602581725963">
       <screen x="1440" y="-556" width="2560" height="1417" />
     </state>
+    <state width="2505" height="455" key="GridCell.Tab.0.center/0.23.1440.797/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602576867571" />
+    <state width="2505" height="455" key="GridCell.Tab.0.center/0.23.1440.800/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602581725963" />
     <state width="2505" height="455" key="GridCell.Tab.0.center/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602568011384" />
-    <state width="2505" height="455" key="GridCell.Tab.0.left" timestamp="1602568011383">
+    <state width="2505" height="455" key="GridCell.Tab.0.left" timestamp="1602581725962">
       <screen x="1440" y="-556" width="2560" height="1417" />
     </state>
+    <state width="2505" height="455" key="GridCell.Tab.0.left/0.23.1440.797/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602576867571" />
+    <state width="2505" height="455" key="GridCell.Tab.0.left/0.23.1440.800/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602581725962" />
     <state width="2505" height="455" key="GridCell.Tab.0.left/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602568011383" />
-    <state width="2505" height="455" key="GridCell.Tab.0.right" timestamp="1602568011384">
+    <state width="2505" height="455" key="GridCell.Tab.0.right" timestamp="1602581725963">
       <screen x="1440" y="-556" width="2560" height="1417" />
     </state>
+    <state width="2505" height="455" key="GridCell.Tab.0.right/0.23.1440.797/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602576867572" />
+    <state width="2505" height="455" key="GridCell.Tab.0.right/0.23.1440.800/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602581725963" />
     <state width="2505" height="455" key="GridCell.Tab.0.right/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602568011384" />
-    <state x="2080" y="-368" key="SettingsEditor" timestamp="1602553416729">
+    <state x="1884" y="-340" key="SettingsEditor" timestamp="1602581241229">
       <screen x="1440" y="-556" width="2560" height="1417" />
     </state>
+    <state x="1884" y="-340" key="SettingsEditor/0.23.1440.800/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602581241229" />
     <state x="2080" y="-368" key="SettingsEditor/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602553416729" />
     <state x="2080" y="-368" key="SettingsEditor/0.23.1440.807/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602495853329" />
+    <state x="2220" y="-171" key="Vcs.Push.Dialog.v2" timestamp="1602583126929">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state x="2220" y="-171" key="Vcs.Push.Dialog.v2/0.23.1440.797/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602583126929" />
+    <state x="2220" y="-171" key="Vcs.Push.Dialog.v2/0.23.1440.800/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602581776203" />
+    <state x="2398" y="-91" key="git4idea.merge.GitPullDialog" timestamp="1602583054526">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state x="2398" y="-91" key="git4idea.merge.GitPullDialog/0.23.1440.797/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602583054526" />
+    <state x="2398" y="-91" key="git4idea.merge.GitPullDialog/0.23.1440.800/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602582378135" />
     <state x="1979" y="-319" key="new project wizard" timestamp="1602492842463">
       <screen x="1440" y="-556" width="2560" height="1417" />
     </state>
