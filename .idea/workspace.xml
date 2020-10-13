@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da9f8c9b-60aa-4a56-9f81-d4a8c91e85ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spi-core">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spi-demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spi-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spi-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spi-demo" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spi-demo" type="f1a62948:ProjectNode" />
+                <item name="spi-core" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spi-demo" type="f1a62948:ProjectNode" />
+                <item name="spi-core" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spi-demo" type="f1a62948:ProjectNode" />
+                <item name="spi-core" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spi-demo" type="f1a62948:ProjectNode" />
+                <item name="spi-core" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="shadow" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ilqm8rlxpsC31NstlWtgTkC9W3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.1546875" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.changhong.spi.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$/spi-core/libs" />
+      <recent name="$PROJECT_DIR$/spi-girl/build/libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/spi-interface/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/spi-interface/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StrategyTest">
+    <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.changhong.spi.demo.StrategyTest" />
+      <module name="spi-demo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changhong.spi.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spi-demo [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="spi-demo:spi-core [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spi-core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="spi-demo:spi-core [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spi-core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="spi-demo:spi-core [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spi-core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.spi-demo:spi-core [shadowJar]" />
+        <item itemvalue="Gradle.spi-demo:spi-core [jar]" />
+        <item itemvalue="Gradle.spi-demo:spi-core [build]" />
+        <item itemvalue="Gradle.spi-demo [dependencies]" />
+        <item itemvalue="Application.StrategyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9f8c9b-60aa-4a56-9f81-d4a8c91e85ae" name="Default Changelist" comment="" />
+      <created>1602492682296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602492682296</updated>
+      <workItem from="1602492685295" duration="10845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2395" y="-52" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602496772795">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state x="2395" y="-52" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602494391686" />
+    <state x="2395" y="-52" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.807/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602496772795" />
+    <state x="2489" y="-197" key="#com.intellij.ide.util.MemberChooser" timestamp="1602496851554">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state x="2489" y="-197" key="#com.intellij.ide.util.MemberChooser/0.23.1440.807/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602496851554" />
+    <state x="2464" y="-3" width="616" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602553591055">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state x="2464" y="-3" width="616" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602553591055" />
+    <state width="2505" height="455" key="GridCell.Tab.0.bottom" timestamp="1602568011385">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.0.bottom/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602568011385" />
+    <state width="2505" height="455" key="GridCell.Tab.0.center" timestamp="1602568011384">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.0.center/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602568011384" />
+    <state width="2505" height="455" key="GridCell.Tab.0.left" timestamp="1602568011383">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.0.left/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602568011383" />
+    <state width="2505" height="455" key="GridCell.Tab.0.right" timestamp="1602568011384">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state width="2505" height="455" key="GridCell.Tab.0.right/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602568011384" />
+    <state x="2080" y="-368" key="SettingsEditor" timestamp="1602553416729">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state x="2080" y="-368" key="SettingsEditor/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602553416729" />
+    <state x="2080" y="-368" key="SettingsEditor/0.23.1440.807/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602495853329" />
+    <state x="1979" y="-319" key="new project wizard" timestamp="1602492842463">
+      <screen x="1440" y="-556" width="2560" height="1417" />
+    </state>
+    <state x="1979" y="-319" key="new project wizard/0.23.1440.805/1440.-556.2560.1417@1440.-556.2560.1417" timestamp="1602492842463" />
+  </component>
+</project>

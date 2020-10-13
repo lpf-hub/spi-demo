@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+}
+
+group 'com.changhong'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // 引入工程内部模块依赖
+    /*implementation project(':spi-girl')
+    implementation project(':spi-boy')
+    implementation project(':spi-core')*/
+
+    // 引入第三方jar依赖
+    compile('com.changhong:spi-core:1.0-SNAPSHOT-all')
+    compile('com.changhong:spi-boy:1.0-SNAPSHOT')
+    compile('com.changhong:spi-girl:1.0-SNAPSHOT')
+//    compile('com.changhong:spi-interface:1.0-SNAPSHOT')
+}
