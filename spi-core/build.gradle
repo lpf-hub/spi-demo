@@ -22,3 +22,10 @@ dependencies {
     // implementation project(':spi-interface')
     compile('com.changhong:spi-interface:1.0-SNAPSHOT')
 }
+
+//指定打包成jar包时不包含的第三方依赖jar
+//shadowJar {
+//    dependencies {
+//        exclude(dependency('com.changhong:spi-interface:1.0-SNAPSHOT'))
+//    }
+//}
